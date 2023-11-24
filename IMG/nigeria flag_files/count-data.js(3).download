@@ -1,0 +1,5 @@
+var DISQUSWIDGETS;
+
+if (typeof DISQUSWIDGETS != 'undefined') {
+    DISQUSWIDGETS.displayCount({"text":{"and":"and","comments":{"zero":"0","multiple":"{num}","one":"1"}},"counts":[{"id":"article_blta1695c6474dac22d:en","comments":1},{"id":"article_bltb7fc2f5a4aecb24e:en","comments":0},{"id":"article_blt9f2e059dffebacfd:en","comments":0},{"id":"article_bltcddea7173e759c6e:en","comments":0},{"id":"article_blta4284908492802a2:en","comments":18},{"id":"article_bltc091041f327e8c83:en","comments":51},{"id":"article_bltd572a5a656f71f12:en","comments":3},{"id":"article_bltc3c0cfd53309cf4d:en","comments":63},{"id":"article_bltd2dabbf1790d8bcf:en","comments":0},{"id":"article_bltc02e2118a3365942:en","comments":0}]});
+}

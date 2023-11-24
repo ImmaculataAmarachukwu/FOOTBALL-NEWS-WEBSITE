@@ -1,0 +1,5 @@
+var DISQUSWIDGETS;
+
+if (typeof DISQUSWIDGETS != 'undefined') {
+    DISQUSWIDGETS.displayCount({"text":{"and":"and","comments":{"zero":"0","multiple":"{num}","one":"1"}},"counts":[{"id":"article_bltdf16df47ab359529:en","comments":0},{"id":"article_bltfc791b53a2188563:en","comments":0},{"id":"article_blte750d4cacd28eb7b:en","comments":0},{"id":"article_blte7d49173e84b66c0:en","comments":2},{"id":"article_bltf7f9d55d9ba50f55:en","comments":2}]});
+}
